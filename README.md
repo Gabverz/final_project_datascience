@@ -1,6 +1,16 @@
 # final_project_datascience
 
 Steelproof Project - Temperature Prediction in Steel Manufacturing Process
+
+Please open files in sequence: 
+
+1 - Intro
+
+2 - Solution
+
+3 - Report
+
+
 ### Problem Context:
 Development of a predictive model to optimize energy consumption in steel production at Steelproof steel plant, through accurate prediction of final metal temperature during processing in a 100-ton ladle metallurgy furnace.
 

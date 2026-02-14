@@ -1,6 +1,4 @@
-# final_project_datascience
-
-Steelproof Project - Temperature Prediction in Steel Manufacturing Process
+# Steelproof Project - Temperature Prediction in Steel Manufacturing Process
 
 Please open files in sequence: 
 
